@@ -43,10 +43,10 @@ Here are some projects that reflect my skills and experience:
 ## 📫 Get in touch!
 Feel free to explore my repositories, and reach out if you'd like to collaborate or discuss new opportunities.
 
-- Email: kerols_naeem@live.com  
+- Email: Kirolos_Naeim@live.com  
 - Portfolio: https://3d-portfolio-xi-lime.vercel.app/  
-- GitHub: https://github.com/keroles-naeem  
-- GitLab: https://gitlab.com/keroles-naeem-group  
+- GitHub: https://github.com/Kirolos-Naeim  
+- GitLab: https://gitlab.com/Kirolos-Naeim-group  
 
 ---
 # Kirolos_naeim

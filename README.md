@@ -45,7 +45,7 @@ Feel free to explore my repositories, and reach out if you'd like to collaborate
 
 - Email: Kirolos_Naeim@outlook.com  
 - Portfolio: https://3d-portfolio-xi-lime.vercel.app/
-- https://harmonious-daffodil-6c0b94.netlify.app/  
+- Portfolio: https://harmonious-daffodil-6c0b94.netlify.app/  
 - GitLab: https://gitlab.com/Kirolos-Naeim-group  
 
 ---
